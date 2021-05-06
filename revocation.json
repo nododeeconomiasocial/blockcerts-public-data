@@ -1,0 +1,1 @@
+{"@context":"https://w3id.org/openbadges/v2","id":"https://raw.githubusercontent.com/nododeeconomiasocial/blockcerts-public-data/main/revocation.json","type":"RevocationList","issuer":"https://raw.githubusercontent.com/nododeeconomiasocial/blockcerts-public-data/main/issuer.json","revokedAssertions":[]}
